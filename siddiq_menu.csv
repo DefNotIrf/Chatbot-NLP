@@ -1,0 +1,46 @@
+﻿stall_name,meal_name,tags,price,available_time
+Indonesian Corner,Ayam Geprek,indonesian;fried;chicken;chili;sambal;rice,6,lunch;dinner
+Indonesian Corner,Ayam Gepuk,indonesian;fried;chicken;chili;nuts;rice,6,lunch;dinner
+Indonesian Corner,Ayam Penyet,indonesian;fried;chicken;chili;paste;rice,6,lunch;dinner
+Indonesian Corner,Ayam Sambal Hijau,fried;chicken;green;chili;rice,6,lunch;dinner
+Indonesian Corner,Ayam Sambal Balado,indonesian;fried;chicken;red;chili;rice,6,lunch;dinner
+Roti Canai Corner,Roti Canai Kosong,roti;canai;kosong;dhal;kari,1.2,breakfast;lunch;dinner
+Roti Canai Corner,Roti Telur,roti;canai;egg;dhal;kari,2.5,breakfast;lunch;dinner
+Roti Canai Corner,Roti Susu,roti;canai;condensed;milk,2,breakfast;lunch;dinner
+Roti Canai Corner,Roti Planta,roti;canai;margarine,2,breakfast;lunch;dinner
+Roti Canai Corner,Roti Bom,roti;canai;margarine;condensed;milk,2,breakfast;lunch;dinner
+Arabic Corner,Hommus,arabic;chickpeas;tahini;lemon;juice;garlic;olive;oil,7,lunch;dinner
+Arabic Corner,Foul,arabic;stewed;fava;bean;olive;oil;lemon;juice;garlic;cumin,7,lunch;dinner
+Arabic Corner,Falafil Hommus,arabic;chickpeas;tahini;lemon;juice;garlic;falafil;savory;fried;spiced,8,lunch;dinner
+Arabic Corner,Qeema,arabic;minced;meat;peas;potato;onion;ginger;garlic,9,lunch;dinner
+Arabic Corner,Shakshoka,arabic;egg;poach;tomato;pepper;onion;garlic;cumin;paprika;bread;beef,10,lunch;dinner
+Chinese Corner,Beef Noodles,chinese;beef;noodle;soup;broth;chili;sauce;choy,8,lunch;dinner
+Chinese Corner,Sliced Noodles,chinese;beef;sliced;noodle;soup;broth;chili;sauce;choy,8,lunch;dinner
+Chinese Corner,Dry Noodles,chinese;dry;beef;noodle;chili;sauce;long;bean;garlic;cilantro,10,lunch;dinner
+Chinese Corner,Dumplings,chinese;dumpling;beef;chili;sauce,10,lunch;dinner
+Chinese Corner,Fried Dumplings,chinese;fried;dumpling;beef;chili;sauce,10,lunch;dinner
+Sandwich Corner,Crispy Chicken Sandwich,crispy;chicken;sandwich;mayo;ketchup;onion,8,breakfast;lunch;dinner
+Sandwich Corner,Beef Sandwich,beef;sandwich;lettuce;tomato;onion;barbeque,8,breakfast;lunch;dinner
+Sandwich Corner,Fajitas,chicken;sandwich;pepper;onion;cheese,8,breakfast;lunch;dinner
+Sandwich Corner,Liver Sandwich,liver;sandwich;mayo;onion;pickle,8,breakfast;lunch;dinner
+Sandwich Corner,Fish Fillet Sandwich,fish;fillet;sandwich;tartar;cheese;tomato,8,breakfast;lunch;dinner
+Shawarma Corner,Chicken Shawarma,chicken;shawarma;garlic;sauce;lettuce;onion;tomato,6,breakfast;lunch;dinner
+Shawarma Corner,Chicken Wrap,chicken;wrap;ketchup;mayo;lettuce;onion,6,breakfast;lunch;dinner
+Shawarma Corner,Mix Shawarma,chicken;beef;shawarma;garlic;sauce;lettuce;onion;tomato,10,breakfast;lunch;dinner
+Shawarma Corner,Beef Shawarma,beef;shawarma;garlic;sauce;lettuce;onion;tomato,12,breakfast;lunch;dinner
+Shawarma Corner,Beef Wrap,beef;wrap;ketchup;mayo;lettuce;onion,8,breakfast;lunch;dinner
+Western Corner,Benjo,western;egg;burger;mayo;ketchup,2.5,breakfast;lunch;dinner
+Western Corner,Chicken Burger,western;chicken;burger;tomato;cheese;onion;cucumber;ketchup;mayo,3,breakfast;lunch;dinner
+Western Corner,Beef Burger,western;beef;burger;tomato;cheese;onion;cucumber;ketchup;mayo,3,breakfast;lunch;dinner
+Western Corner,Chicken Chop,western;chicken;fried;mushroom;black;pepper;fries;coleslaw,8.5,breakfast;lunch;dinner
+Western Corner,Chicken Grill,western;chicken;grill;mushroom;black;pepper;fries;coleslaw,8.5,breakfast;lunch;dinner
+Pizza Corner,Pepperoni,pizza;pepperoni;mozzarella;chicken;beef;tomato,8,lunch;dinner
+Pizza Corner,Margherita,pizza;mozzarella;tomato;basil;cheese,8,lunch;dinner
+Pizza Corner,Sausage,pizza;tomato;mozzarella;cheese;sausage,8,lunch;dinner
+Pizza Corner,BBQ,pizza;chicken;beef;vegetables;cheese;mozzarella;barbeque,8,lunch;dinner
+Pizza Corner,Spicy Mexican,pizza;chicken;beef;chili;vegetables;cheese,8,lunch;dinner
+Malay Corner,Nasi Goreng Ayam Kunyit,malay;fried;rice;turmeric;egg;chili;sambal;long;bean;carrots;onions,5.5,lunch;dinner
+Malay Corner,Nasi Goreng Cina,malay;fried;rice;chicken;shrimp;sambal;sausage;long;bean,4.5,lunch;dinner
+Malay Corner,Nasi Goreng Cili Padi,malay;fried;rice;spicy;chili;egg,5,lunch;dinner
+Malay Corner,Nasi Goreng Kampung,malay;fried;rice;egg;anchovies;sambal;beans;prawns;chicken,5,lunch;dinner
+Malay Corner,Nasi Goreng Daging,malay;fried;rice;beef;minced;egg;shallots;garlic;chili,5.5,lunch;dinner
