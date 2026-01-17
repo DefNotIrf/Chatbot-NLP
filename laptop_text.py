@@ -1,6 +1,6 @@
-from modules.rag import RAGEngine
-from modules.llm import OpenAILLM
-from modules.audio import TextIO
+from src.rag import RAGEngine
+from src.llm import OpenAILLM
+from src.audio import TextIO
 
 MENU_PATH = "C:\\Users\\User\\Desktop\\chatbot\\Chatbot\\data\\siddiq_menu.csv"
 SYSTEM_PROMPT = """
@@ -51,4 +51,5 @@ def main():
         io.output(response)
 
 if __name__ == "__main__":
+
     main()
